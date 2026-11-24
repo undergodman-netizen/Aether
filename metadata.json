@@ -1,0 +1,6 @@
+{
+  "name": "Aether Video",
+  "description": "A premium, exclusive, hi-tech local video player experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
